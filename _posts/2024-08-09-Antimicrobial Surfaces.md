@@ -223,7 +223,7 @@ There are some fundamental challenges that make antimicrobial surfaces difficult
 
 ### Commercially available examples
 
-The most comprehensive list that I have been able to find comes from a paper on the applications of [AMSs on the international space station](https://doi.org/10.1002/admi.202100118). These are mostly based on silver and quaternary ammonium compounds. Here is a list of other ones we’ve found that aren’t mentioned in the ISS paper:
+The most comprehensive list that I have been able to find comes from a paper on the applications of [AMSs on the international space station](https://doi.org/10.1002/admi.202100118). These are mostly based on silver and quaternary ammonium compounds. Here is a (work in progress) list of other ones we’ve found that aren’t mentioned in the ISS paper:
 
 * Antimicrobial additives for polymers: [https://www.biocote.com/](https://www.biocote.com/) 
 * [https://vitracoat.com/products/vitraguard-antimicrobial-coatings/](https://vitracoat.com/products/vitraguard-antimicrobial-coatings/) 
