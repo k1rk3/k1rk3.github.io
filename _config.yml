@@ -21,7 +21,7 @@
 title: Kirke's website
 email: kirke.joamets@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website where I post things that I've written.
+  this is my personal website where I post things that I've written.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://k1rk3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

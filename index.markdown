@@ -7,4 +7,4 @@ permalink: /
 
 ---
 
-Hello! Here's my [about page](k1rk3.github.io/about).
+hi! here's my [about page](k1rk3.github.io/about).
