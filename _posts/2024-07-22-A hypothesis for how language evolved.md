@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A hypothesis for how language evolved
-date: 2024-08-09 11:08:26 -0400
+date: 2024-07-22
 ---
 
 _Homo sapiens_ is the only living species that can communicate via _language_. What do I mean by language? For the purposes of this review, I don't think a formal definition is necessary. Instead, we can take it as the thing that humans use when they talk (or sign in the case of sign languages) to each other, or write book reviews, or solve math problems in their heads. I think it's clear that our closest relatives, chimpanzees, don't have a language in the same sense. 
