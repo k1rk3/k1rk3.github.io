@@ -5,6 +5,7 @@ date: 2024-08-09
 ---
 # Antimicrobial surfaces for pandemic prevention 
 
+![dalle ams.webp](/assets/dalle ams.webp) 
 
 Antimicrobial surfaces (AMSs) are surfaces which either **kill or inhibit the growth of microbes**, including bacteria, viruses and fungi. They might be a potentially useful technology for pandemic prevention due to reducing the spread of pathogens via surfaces which otherwise would act as reservoirs of contagious particles. I have spent 8 weeks researching antimicrobial surfaces part-time (around 10 hours each week), and based on that research, I will give my opinion on how useful I think AMSs are for pandemic prevention. I’ll also discuss what kinds of AMSs exist, how to classify them and the main shortcomings of the field of AMS.
 

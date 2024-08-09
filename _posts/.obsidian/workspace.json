@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "26899477dc475448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11655844fe998b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-09-Antimicrobial Surfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,11 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "537aff5ee0708555",
+  "active": "11655844fe998b67",
   "lastOpenFiles": [
+    "assets/dalle.md",
+    "assets",
+    "dalle ams.webp",
+    "2024-08-09-Antimicrobial Surfaces.md",
+    "DALL·E 2024-08-09 18.01.52 - A detailed image showing viruses being destroyed on an antimicrobial surface. The surface is smooth and metallic with a subtle grid pattern, emitting .webp.crdownload",
     "2024-07-22-A hypothesis for how language evolved.md",
     "2024-07-02.md",
-    "2024-08-09-Antimicrobial Surfaces.md",
     "Untitled.md",
     "images/Figure_7.png",
     "images/Figure_7.md",
