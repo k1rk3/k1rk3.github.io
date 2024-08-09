@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ec7944dcc212ad1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9fb595f43da26b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c41f080e1811c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-09-A hypothesis for how language evolved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00024810e94cd30f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-09-A hypothesis for how language evolved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4f879cda5f4c0e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9fada72e86ba64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7cd39396e5b9fdc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bee54286da74c09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09a76354e0dc9d82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9cbb9ff726d4c67",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d98ad176cd51e38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc4539cd4aa4ce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-08-09-A hypothesis for how language evolved.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "838c020e25aa7d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-08-09-A hypothesis for how language evolved.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b42f993b939f9114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53eaf3a738fff3c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-08-09-A hypothesis for how language evolved.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "00024810e94cd30f",
+  "lastOpenFiles": [
+    "2024-08-09-Welcome to Jekyll!.md",
+    "2024-08-09-A hypothesis for how language evolved.md",
+    "2024-08-09-welcome-to-jekyll.markdown",
+    "new.md",
+    "Welcome.md"
+  ]
+}
