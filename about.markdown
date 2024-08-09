@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-My name is Kirke and I like computational biology, linguistics, effective altruism and many other things. 
+I’m Kirke (/ˈkir.ke/), and this website hosts my writings on topics I find interesting: linguistics, biosecurity, effective altruism, and other things.
 
