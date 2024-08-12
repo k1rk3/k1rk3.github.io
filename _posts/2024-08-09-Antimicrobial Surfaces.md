@@ -4,6 +4,7 @@ title: Antimicrobial Surfaces
 date: 2024-08-09
 ---
 # Antimicrobial surfaces for pandemic prevention 
+*This is the write up of a project done with the Oxford Biosecurity Group*
 
 ![dalle ams.webp](/assets/dalle ams.webp) 
 
