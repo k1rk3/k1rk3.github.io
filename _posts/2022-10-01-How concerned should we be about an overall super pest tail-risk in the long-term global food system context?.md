@@ -102,180 +102,19 @@ There are some general arguments/heuristics:
 
 However, this isn’t very conclusive[^4] [^5] (see also [Lehmann et al 2020](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2160)). Fortunately, the same climatic models we used to predict the current potential distribution of FAW can be used to predict the distribution under different climate change scenarios. We just have to use the data from general circulation models as inputs instead of the current climate variables. Unfortunately, the different studies that have done this disagree quite significantly on the effects of climate change. Some authors find that the potential range will increase globally, some find the opposite (see table). 
 
-<table>
-  <tr>
-   <td><strong>Paper</strong>
-   </td>
-   <td><strong>Model used</strong>
-   </td>
-   <td><strong>dataset</strong>
-   </td>
-   <td><strong>distinction between permanent and transient populations?</strong>
-   </td>
-   <td><strong>change due to climate change</strong>
-   </td>
-   <td><strong>notes</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Ramsamy et al 2021
-   </td>
-   <td>MaxEnt
-   </td>
-   <td>current distribution: WorldClim
-<p>
-2050 and 2070: BCC-CSM2-MR and MIROC6 from CMIP6
-   </td>
-   <td>yes
-   </td>
-   <td>increase of around 8.83% of global suitability
-   </td>
-   <td>didn’t process distribution data
-   </td>
-  </tr>
-  <tr>
-   <td>Zacarias 2020
-   </td>
-   <td>MaxEnt
-   </td>
-   <td>current: WorldClim
-<p>
-2070: CCSM4, MIROC-5 and GISS-E2-R
-<p>
-CMIP5
-   </td>
-   <td>yes
-   </td>
-   <td>increase of around 14.20% of global land
-   </td>
-   <td>takes into account also the potential co-occurrence with host plants
-   </td>
-  </tr>
-  <tr>
-   <td>Liu et al 2020
-   </td>
-   <td>MaxEnt
-   </td>
-   <td>WorldClim
-   </td>
-   <td>no
-   </td>
-   <td>decrease of around 13% globally
-   </td>
-   <td>explores the distribution patterns of fall armyworm <strong>under global land-use</strong> and different scenarios of climate change
-   </td>
-  </tr>
-  <tr>
-   <td>Fan et al 2020
-   </td>
-   <td>MaxEnt
-   </td>
-   <td>WorldClim
-   </td>
-   <td>no
-   </td>
-   <td>N/A
-   </td>
-   <td>didn’t process distribution data?
-   </td>
-  </tr>
-  <tr>
-   <td>Ramirez-Cabral 2017
-   </td>
-   <td>CLIMEX
-   </td>
-   <td>CliMond
-   </td>
-   <td>no
-   </td>
-   <td>increase in North America and a marked reduction in South America by 2100
-   </td>
-   <td>Americas only
-   </td>
-  </tr>
-  <tr>
-   <td>du Plessis et al 2018
-   </td>
-   <td>CLIMEX
-   </td>
-   <td>The CliMond 1975H historical climate dataset
-   </td>
-   <td>yes
-   </td>
-   <td>N/A
-   </td>
-   <td>unclear what distribution data was used
-   </td>
-  </tr>
-  <tr>
-   <td>Baloch et al 2020
-   </td>
-   <td>MaxEnt
-   </td>
-   <td>WorldClim
-   </td>
-   <td>no
-   </td>
-   <td>N/A
-   </td>
-   <td>mostly focused on Central Asia;
-   </td>
-  </tr>
-  <tr>
-   <td>Timilsena et al 2022
-   </td>
-   <td>CLIMEX
-   </td>
-   <td>current: CliMond
-<p>
-2030, 2050, and 2080: CSIRO-Mk3.0 GCM, and MIROC-H GCM
-   </td>
-   <td>yes
-   </td>
-   <td>in Africa:
-<p>
-decrease in optimal areas of 11.6% or 7.2% 
-<p>
-increase in unsuitable areas 
-<p>
-(small changes in marginal and suitable areas)
-   </td>
-   <td>future projections in Africa only;
-<p>
-considered two irrigation scenarios
-   </td>
-  </tr>
-  <tr>
-   <td>Tepa-Yotto et al 2021
-   </td>
-   <td>MaxEnt
-   </td>
-   <td>current: WorldClim
-<p>
-future: CMIP5
-   </td>
-   <td>yes
-   </td>
-   <td>decrease 
-   </td>
-   <td>also model FAW parasitoids’ habitats suitability
-   </td>
-  </tr>
-  <tr>
-   <td>Early et al 2018
-   </td>
-   <td>ensemble Species Distribution Model (that they created)
-   </td>
-   <td>CRU (New et al 2002)
-   </td>
-   <td>yes, migratory data not used
-   </td>
-   <td>N/A
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+| Paper<br>                 | Model used<br>                                              | dataset<br>                                                                                 | distinction between permanent and transient populations?<br> | change due to climate change<br>                                                                                                                             | notes<br>                                                                                                               |
+| ------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Ramsamy et al 2021<br>    | MaxEnt<br>                                                  | current distribution: WorldClim<br><br>2050 and 2070: BCC-CSM2-MR and MIROC6 from CMIP6<br> | yes<br>                                                      | increase of around 8.83% of global suitability<br>                                                                                                           | didn’t process distribution data<br>                                                                                    |
+| Zacarias 2020<br>         | MaxEnt<br>                                                  | current: WorldClim<br><br>2070: CCSM4, MIROC-5 and GISS-E2-R<br><br>CMIP5<br>               | yes<br>                                                      | increase of around 14.20% of global land<br>                                                                                                                 | takes into account also the potential co-occurrence with host plants<br>                                                |
+| Liu et al 2020<br>        | MaxEnt<br>                                                  | WorldClim<br>                                                                               | no<br>                                                       | decrease of around 13% globally<br>                                                                                                                          | explores the distribution patterns of fall armyworm under global land-use and different scenarios of climate change<br> |
+| Fan et al 2020<br>        | MaxEnt<br>                                                  | WorldClim<br>                                                                               | no<br>                                                       | N/A<br>                                                                                                                                                      | didn’t process distribution data?<br>                                                                                   |
+| Ramirez-Cabral 2017<br>   | CLIMEX<br>                                                  | CliMond<br>                                                                                 | no<br>                                                       | increase in North America and a marked reduction in South America by 2100<br>                                                                                | Americas only<br>                                                                                                       |
+| du Plessis et al 2018<br> | CLIMEX<br>                                                  | The CliMond 1975H historical climate dataset<br>                                            | yes<br>                                                      | N/A<br>                                                                                                                                                      | unclear what distribution data was used<br>                                                                             |
+| Baloch et al 2020<br>     | MaxEnt<br>                                                  | WorldClim<br>                                                                               | no<br>                                                       | N/A<br>                                                                                                                                                      | mostly focused on Central Asia;<br>                                                                                     |
+| Timilsena et al 2022<br>  | CLIMEX<br>                                                  | current: CliMond<br><br>2030, 2050, and 2080: CSIRO-Mk3.0 GCM, and MIROC-H GCM<br>          | yes<br>                                                      | in Africa:<br><br>decrease in optimal areas of 11.6% or 7.2% <br><br>increase in unsuitable areas <br><br>(small changes in marginal and suitable areas)<br> | future projections in Africa only;<br><br>considered two irrigation scenarios<br>                                       |
+| Tepa-Yotto et al 2021<br> | MaxEnt<br>                                                  | current: WorldClim<br><br>future: CMIP5<br>                                                 | yes<br>                                                      | decrease <br>                                                                                                                                                | also model FAW parasitoids’ habitats suitability<br>                                                                    |
+| Early et al 2018<br>      | ensemble Species Distribution Model (that they created)<br> | CRU (New et al 2002)<br>                                                                    | yes, migratory data not used<br>                             | N/A<br>                                                                                                                                                      | <br>                                                                                                                    |
+
 
 
 ## How much yield loss does FAW cause directly?
