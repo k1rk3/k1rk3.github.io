@@ -30,9 +30,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0135211700a8050d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md",
+                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md",
+                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md"
+                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md"
               }
             }
           }
@@ -159,12 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e8e5ef4b2963ead",
+  "active": "0135211700a8050d",
   "lastOpenFiles": [
-    "2024-08-09-Antimicrobial Surfaces.md",
-    "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md",
     "2024-07-22-A hypothesis for how language evolved.md",
+    "2024-08-09-Antimicrobial Surfaces.md",
     "assets/dalle.md",
+    "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
+    "part_iii_project_report1.pdf",
+    "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md",
     "assets",
     "dalle ams.webp",
     "DALL·E 2024-08-09 18.01.52 - A detailed image showing viruses being destroyed on an antimicrobial surface. The surface is smooth and metallic with a subtle grid pattern, emitting .webp.crdownload",
