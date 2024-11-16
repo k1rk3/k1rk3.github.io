@@ -10,6 +10,8 @@ date: 2024-11-16
 
 ![dalle ams.webp](/assets/dalle ams.webp) 
 
+
+## Abstract
 Germs sometimes get from a person onto a surface and later from that surface to other people. Antimicrobial surfaces (AMSs) — surfaces which either kill microbes or inhibit their growth — have been proposed as an intervention to limit this mode of disease transmission, and in particular to prevent pandemics. This report examines the literature on AMSs with an eye toward assessing their potential for pandemic prevention.
 
 Epistemic status: This report summarizes ~100 hours of reading and thinking about antimicrobial surfaces.
@@ -222,7 +224,7 @@ There is a lot of work going into antimicrobial surfaces. Even though a very sma
 [^3]:  
 	Some surfaces use more than one of these strategies, and there probably exist examples that don’t clearly fit into these groups, but overall this is a pretty comprehensive classification.
 
-[^4]
+[^4]:
 	I have not looked into this at the time of posting.
 
 
