@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-09-Antimicrobial Surfaces.md",
+                "file": "2024-11-16-Antimicrobial Surfaces.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-16-Antimicrobial Surfaces"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?"
             }
           },
           {
@@ -37,10 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
+                "file": "2024-11-16-Antimicrobial Surfaces.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-16-Antimicrobial Surfaces"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
+                "file": "2024-11-16-Antimicrobial Surfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-11-16-Antimicrobial Surfaces"
             }
           },
           {
@@ -127,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
+                "file": "2024-11-16-Antimicrobial Surfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-11-16-Antimicrobial Surfaces"
             }
           },
           {
@@ -141,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md"
-              }
+                "file": "2024-11-16-Antimicrobial Surfaces.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-11-16-Antimicrobial Surfaces"
             }
           }
         ]
@@ -174,11 +194,12 @@
   "active": "0135211700a8050d",
   "lastOpenFiles": [
     "2024-07-22-A hypothesis for how language evolved.md",
-    "2024-08-09-Antimicrobial Surfaces.md",
-    "assets/dalle.md",
-    "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
-    "part_iii_project_report1.pdf",
     "2022-10-01-How concerned should we be about an overall super pest tail-risk in the long-term global food system context?.md",
+    "2024-08-09-Welcome to Jekyll!.md",
+    "2023-06-01-Effect of stochasticity in lysis time on fitness of bacteriophage undergoing spatial range expansions.md",
+    "2024-11-16-Antimicrobial Surfaces.md",
+    "assets/dalle.md",
+    "part_iii_project_report1.pdf",
     "assets",
     "dalle ams.webp",
     "DALL·E 2024-08-09 18.01.52 - A detailed image showing viruses being destroyed on an antimicrobial surface. The surface is smooth and metallic with a subtle grid pattern, emitting .webp.crdownload",
@@ -186,7 +207,6 @@
     "images/Figure_7.png",
     "images/Figure_7.md",
     "images/Figure.md",
-    "2024-08-09-Welcome to Jekyll!.md",
     "images/Figure_8.png",
     "images",
     "2024-08-09-welcome-to-jekyll.markdown",
